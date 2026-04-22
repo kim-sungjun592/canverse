@@ -23,13 +23,13 @@ export const headerData = {
         },
         {
             id: 'collection',
-            label: 'collection',
+            label: 'Promotion',
             href: '#collection',
             type: 'section'
         },
         {
             id: 'skincare',
-            label: 'skincare',
+            label: 'Community',
             href: '#skincare',
             type: 'section'
         },
