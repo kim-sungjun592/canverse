@@ -14,7 +14,7 @@ const FixedTopBtn = () => {
 
             >위로 올라가는 버튼</button>
             <a href="#" className='talk-btn'>
-                 CONVE
+                 CON
             </a>
             <p>
                 1:1 talk
